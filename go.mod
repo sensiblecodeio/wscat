@@ -1,4 +1,4 @@
-module github.com/pwaller/wscat
+module github.com/sensiblecodeio/wscat
 
 go 1.12
 
