@@ -20,4 +20,4 @@ jobs:
 
       - name: Run
         run: |
-          ./wscat wss://echo.websocket.org
+          ./wscat wss://echo.websocket.events
